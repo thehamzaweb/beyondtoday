@@ -1,13 +1,13 @@
 -- =====================================================
--- The Next Version - Database Schema & Sample Data
--- Database: the_next_version
+-- Beyond Today - Database Schema & Sample Data
+-- Database: beyond_today
 -- =====================================================
 
-CREATE DATABASE IF NOT EXISTS the_next_version
+CREATE DATABASE IF NOT EXISTS beyond_today
   CHARACTER SET utf8mb4
   COLLATE utf8mb4_unicode_ci;
 
-USE the_next_version;
+USE beyond_today;
 
 -- -----------------------------------------------------
 -- Table: users
@@ -56,11 +56,11 @@ CREATE TABLE IF NOT EXISTS articles (
 
 -- =====================================================
 -- Admin user
--- Email:    admin@thenextversion.com
+-- Email:    admin@beyondtoday.com
 -- Password: admin123 (hashed with bcrypt)
 -- =====================================================
 INSERT INTO users (name, email, password) VALUES
-('Admin', 'admin@thenextversion.com', '$2a$10$XSur8JnM2Xf.FiDonG/ZTODV/59HB7udegIwspeMi3EzfD17fpFNG');
+('Admin', 'admin@beyondtoday.com', '$2a$10$XSur8JnM2Xf.FiDonG/ZTODV/59HB7udegIwspeMi3EzfD17fpFNG');
 
 -- =====================================================
 -- Sample categories

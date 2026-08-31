@@ -14,7 +14,7 @@ async function start() {
   }
 
   app.listen(PORT, () => {
-    console.log(`The Next Version API running on http://localhost:${PORT}`);
+    console.log(`Beyond Today API running on http://localhost:${PORT}`);
   });
 }
 

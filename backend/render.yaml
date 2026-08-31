@@ -1,6 +1,6 @@
 services:
   - type: web
-    name: the-next-version-backend
+    name: beyond-today-backend
     runtime: node
     rootDir: backend
     buildCommand: npm install

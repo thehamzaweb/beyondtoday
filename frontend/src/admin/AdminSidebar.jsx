@@ -20,7 +20,7 @@ export default function AdminSidebar({ onLogout }) {
       <div className="flex items-center gap-3 border-b border-gray-200 p-4 lg:h-16 dark:border-gray-800">
         <span className="flex h-8 w-8 items-center justify-center rounded-lg bg-indigo-600 text-white">TN</span>
         <div>
-          <p className="text-sm font-bold leading-tight text-gray-900 dark:text-white">The Next Version</p>
+          <p className="text-sm font-bold leading-tight text-gray-900 dark:text-white">Beyond Today</p>
           <p className="text-xs text-gray-500 dark:text-gray-400">Admin Panel</p>
         </div>
       </div>

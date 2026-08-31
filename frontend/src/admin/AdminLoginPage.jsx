@@ -63,7 +63,7 @@ export default function AdminLoginPage() {
                   type="email"
                   value={email}
                   onChange={(e) => setEmail(e.target.value)}
-                  placeholder="admin@thenextversion.com"
+                  placeholder="admin@beyondtoday.com"
                   className="input pl-10"
                   required
                 />

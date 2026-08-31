@@ -1,7 +1,7 @@
 {
-  "name": "the-next-version-frontend",
+  "name": "beyond-today-frontend",
   "version": "1.0.0",
-  "description": "The Next Version blog frontend",
+  "description": "Beyond Today blog frontend",
   "type": "module",
   "scripts": {
     "dev": "vite",

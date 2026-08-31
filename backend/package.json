@@ -1,7 +1,7 @@
 {
-  "name": "the-next-version-backend",
+  "name": "beyond-today-backend",
   "version": "1.0.0",
-  "description": "The Next Version blog backend API",
+  "description": "Beyond Today blog backend API",
   "main": "server.js",
   "scripts": {
     "start": "node server.js",

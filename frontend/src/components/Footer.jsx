@@ -11,7 +11,7 @@ export default function Footer() {
               TN
             </span>
             <span className="text-gray-900 dark:text-white">
-              The Next <span className="text-indigo-600 dark:text-indigo-400">Version</span>
+              Beyond <span className="text-indigo-600 dark:text-indigo-400">Today</span>
             </span>
           </Link>
           <p className="text-sm text-gray-600 dark:text-gray-400">
@@ -58,7 +58,7 @@ export default function Footer() {
 
       <div className="border-t border-gray-200 py-6 dark:border-gray-800">
         <div className="container-page flex flex-col items-center justify-between gap-2 text-sm text-gray-500 dark:text-gray-400 sm:flex-row">
-          <p>© {new Date().getFullYear()} The Next Version. All rights reserved.</p>
+          <p>© {new Date().getFullYear()} Beyond Today. All rights reserved.</p>
        </div>
       </div>
     </footer>
