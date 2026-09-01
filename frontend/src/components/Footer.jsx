@@ -8,7 +8,7 @@ export default function Footer() {
         <div>
           <Link to="/" className="mb-3 flex items-center gap-2 text-lg font-extrabold">
             <span className="flex h-8 w-8 items-center justify-center rounded-lg bg-indigo-600 text-white">
-              TN
+              BT
             </span>
             <span className="text-gray-900 dark:text-white">
               Beyond <span className="text-indigo-600 dark:text-indigo-400">Today</span>

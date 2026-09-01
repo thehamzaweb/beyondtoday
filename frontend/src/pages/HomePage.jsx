@@ -46,9 +46,9 @@ export default function HomePage() {
             Learn. Build. Become Better.
           </span>
           <h1 className="mx-auto max-w-3xl text-4xl font-extrabold tracking-tight sm:text-5xl">
-            The Next{' '}
+            Beyond{' '}
             <span className="bg-gradient-to-r from-indigo-600 to-purple-600 bg-clip-text text-transparent">
-              Version
+              Today
             </span>
           </h1>
           <p className="mx-auto mt-5 max-w-2xl text-lg text-gray-600 dark:text-gray-300">

@@ -18,7 +18,7 @@ export default function AdminSidebar({ onLogout }) {
   return (
     <aside className="w-full shrink-0 border-b border-gray-200 bg-white lg:w-60 lg:border-b-0 lg:border-r lg:dark:border-gray-800 dark:bg-gray-900">
       <div className="flex items-center gap-3 border-b border-gray-200 p-4 lg:h-16 dark:border-gray-800">
-        <span className="flex h-8 w-8 items-center justify-center rounded-lg bg-indigo-600 text-white">TN</span>
+        <span className="flex h-8 w-8 items-center justify-center rounded-lg bg-indigo-600 text-white">BT</span>
         <div>
           <p className="text-sm font-bold leading-tight text-gray-900 dark:text-white">Beyond Today</p>
           <p className="text-xs text-gray-500 dark:text-gray-400">Admin Panel</p>
