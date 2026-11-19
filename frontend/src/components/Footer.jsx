@@ -8,10 +8,10 @@ export default function Footer() {
         <div>
           <Link to="/" className="mb-3 flex items-center gap-2 text-lg font-extrabold">
             <span className="flex h-8 w-8 items-center justify-center rounded-lg bg-indigo-600 text-white">
-              BT
+              H
             </span>
             <span className="text-gray-900 dark:text-white">
-              Beyond <span className="text-indigo-600 dark:text-indigo-400">Today</span>
+              Hamzakir
             </span>
           </Link>
           <p className="text-sm text-gray-600 dark:text-gray-400">
@@ -58,7 +58,7 @@ export default function Footer() {
 
       <div className="border-t border-gray-200 py-6 dark:border-gray-800">
         <div className="container-page flex flex-col items-center justify-between gap-2 text-sm text-gray-500 dark:text-gray-400 sm:flex-row">
-          <p>© {new Date().getFullYear()} Beyond Today. All rights reserved.</p>
+          <p>© {new Date().getFullYear()} Hamzakir. All rights reserved.</p>
        </div>
       </div>
     </footer>

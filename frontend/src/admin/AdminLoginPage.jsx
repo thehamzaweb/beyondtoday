@@ -35,10 +35,10 @@ export default function AdminLoginPage() {
         <div className="mb-8 text-center">
           <Link to="/" className="inline-flex items-center justify-center gap-2 text-2xl font-extrabold">
             <span className="flex h-10 w-10 items-center justify-center rounded-xl bg-indigo-600 text-white">
-              TN
+              H
             </span>
             <span className="text-gray-900 dark:text-white">
-              The Next <span className="text-indigo-600 dark:text-indigo-400">Version</span>
+              Hamzakir
             </span>
           </Link>
           <p className="mt-2 text-sm text-gray-500 dark:text-gray-400">Admin Panel</p>

@@ -15,10 +15,10 @@ export default function AboutPage() {
     <div className="container-page py-12">
       <div className="mx-auto max-w-3xl">
         <h1 className="text-3xl font-bold text-gray-900 dark:text-white sm:text-4xl">
-          About Beyond Today
+          About Hamzakir
         </h1>
         <p className="mt-4 text-lg text-gray-600 dark:text-gray-300">
-          Beyond Today is a simple technology blog created to share clear, practical
+          Hamzakir is a simple technology blog created to share clear, practical
           knowledge about building software and understanding the technology that powers the
           modern world.
         </p>
@@ -62,10 +62,10 @@ export default function AboutPage() {
           <h2 className="text-2xl font-bold text-gray-900 dark:text-white">About the Author</h2>
           <div className="card mt-5 flex items-start gap-4 p-6">
             <div className="flex h-14 w-14 shrink-0 items-center justify-center rounded-full bg-indigo-600 text-lg font-bold text-white">
-              TN
+              H
             </div>
             <div>
-              <h3 className="font-bold text-gray-900 dark:text-white">Beyond Today Team</h3>
+              <h3 className="font-bold text-gray-900 dark:text-white">Hamzakir Team</h3>
               <p className="mt-1 text-sm text-gray-600 dark:text-gray-400">
                 A developer who loves learning and sharing knowledge about programming,
                 security, networking, and emerging technologies.

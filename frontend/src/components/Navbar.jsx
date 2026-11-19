@@ -35,10 +35,10 @@ export default function Navbar({ theme, onToggleTheme }) {
       <nav className="container-page flex h-16 items-center justify-between gap-4">
         <Link to="/" className="flex items-center gap-2 text-lg font-extrabold tracking-tight">
           <span className="flex h-8 w-8 items-center justify-center rounded-lg bg-indigo-600 text-white">
-            BT
+            H
           </span>
           <span className="text-gray-900 dark:text-white">
-            Beyond <span className="text-indigo-600 dark:text-indigo-400">Today</span>
+            Hamzakir
           </span>
         </Link>
 
